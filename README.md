@@ -54,6 +54,9 @@ Document filed to SharePoint → user notified by email
 No document reaches employees without human sign-off.
 
 ---
+## Architecture
+![Noblesse Architecture](./noblesse_arch_diagram.png)
+
 
 ## Built With
 
@@ -77,12 +80,21 @@ AI efficiency. Human accountability. Both at once.
 
 ---
 
+## Demo Video
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red)](https://youtu.be/0m_Sj8W8VV0)
+
+[Watch the Noblesse demo on YouTube](https://youtu.be/0m_Sj8W8VV0)
+
 ## Hackathon
 
 Built for the **Agents League Hackathon 2026**  
 Track: **Enterprise Agents — Microsoft 365 Copilot**  
 Challenge: Build business-ready knowledge agents 
 integrated with Microsoft 365 Copilot
+
+**Submitted by:** Edward Obeng Dankwah  
+**Role:** AI Developer · Cloud DevOps Engineer  
+**GitHub:** [@godcandidate](https://github.com/godcandidate)
 
 ---
 
